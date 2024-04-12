@@ -1,4 +1,4 @@
-# Three.js Journey
+# Three.js Posters-1
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
