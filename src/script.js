@@ -17,7 +17,7 @@ import fragmentShader3 from './shaders/shader3/fragmentShader.glsl?raw'
 // Debug
 const gui = new dat.GUI({ width: 340 })
 // gui.closed = true
-gui.hide()
+// gui.hide()
 
 // Canvas
 const canvas = document.querySelector('canvas.webgl')
